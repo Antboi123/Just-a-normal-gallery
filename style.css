@@ -1,0 +1,22 @@
+.bird {
+  block-size: 250px;
+}
+
+.ant {
+  block-size: 125px;
+}
+
+.diamondo {
+  block-size: 100px
+}
+
+.rick-roll {
+  block-size: 150px
+}
+
+.brihh {
+  block-size: 350px
+}
+html{
+  background: linear-gradient( 90deg, rgba(100, 50, 200, 60%), rgba(200, 255, 50, 60%), rgba(0, 127, 127, 60%))  
+}
